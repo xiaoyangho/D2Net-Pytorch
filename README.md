@@ -1,3 +1,3 @@
 # D2Net-Pytorch
-The official implementation of paper D2Net
+The official implementation of paper D2Net.\n
 We will finish organizing our code and data as soon as possible after the acceptance of the paper.
